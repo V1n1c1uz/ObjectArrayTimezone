@@ -1,4 +1,4 @@
-const ObjetoArrayZones = {
+const ObjectArrayZones = {
   Africa: ['Africa/Abidjan', 'Africa/Accra', 'Africa/Addis_Ababa', 'Africa/Algiers', 'Africa/Asmara',
     'Africa/Asmera', 'Africa/Bamako', 'Africa/Bangui', 'Africa/Banjul', 'Africa/Bissau', 'Africa/Blantyre',
     'Africa/Brazzaville', 'Africa/Bujumbura', 'Africa/Cairo', 'Africa/Casablanca', 'Africa/Ceuta', 'Africa/Conakry',
@@ -142,4 +142,4 @@ const ObjetoArrayZones = {
   WET: 'WET',
   Zulu: 'Zulu',
 }
-module.exports = ObjetoArrayZones
+module.exports = ObjectArrayZones
