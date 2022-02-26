@@ -1,0 +1,19 @@
+{
+  "name": "objectarraytimezone",
+  "version": "1.0.0",
+  "description": "List all timezones moment by continent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/V1n1c1uz/ObjectArrayTimezone.git"
+  },
+  "author": "V1n1c1uz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/V1n1c1uz/ObjectArrayTimezone/issues"
+  },
+  "homepage": "https://github.com/V1n1c1uz/ObjectArrayTimezone#readme"
+}
